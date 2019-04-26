@@ -1,5 +1,5 @@
 ## Program 6 - Organization
-
+this first project focuses on the organization of different methods. the program has 3 methods for 3 vering types of snow flakes to fall from the top of the window. each method has different perameters for its individual preferences
 ## Program 7 - Transformation
 
 ## Program 8 - Text
