@@ -4,13 +4,14 @@
 this first project focuses on the organization of different methods. the program has 3 methods for 3 vering types of snow flakes to fall from the top of the window. each method has different perameters for its individual preferences
 [s19magd150lab06_Lory.pde](https://github.com/LoryT20/MAGD150-Portfolio/tree/gh-pages/s19magd150lab06_Lory)
 ## Program 7 - Transformation
-
+[s19magd150lab07_Lory.pde](https://github.com/LoryT20/MAGD150-Portfolio/tree/gh-pages/s19magd150lab07_Lory)
 ## Program 8 - Text
-
+[s19magd150lab08_Lory.pde](https://github.com/LoryT20/MAGD150-Portfolio/tree/gh-pages/s19magd150lab06_Lory)
 ## Program 9 - Image/Sound/Video
-
+[s19magd150lab09_Lory.pde](https://github.com/LoryT20/MAGD150-Portfolio/tree/gh-pages/s19magd150lab06_Lory)
 ## Program 10 - 3D
 this first program...
+[s19magd150lab10_Lory.pde](https://github.com/LoryT20/MAGD150-Portfolio/tree/gh-pages/s19magd150lab06_Lory)
 
 # Header 1
 ## Header 2
