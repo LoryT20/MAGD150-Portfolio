@@ -1,7 +1,7 @@
 # MAGD150-Portfolio
 
 ## Program 6 - Organization
-this first project focuses on the organization of different methods. the program has 3 methods for 3 vering types of snow flakes to fall from the top of the window. each method has different perameters for its individual preferences
+this first project focuses on the organization of different methods. the program has 3 methods for 3 vering types of snow flakes to fall from the top of the window. Each method has different perameters for its individual preferences.
 [s19magd150lab06_Lory.pde](https://github.com/LoryT20/MAGD150-Portfolio/tree/gh-pages/s19magd150lab06_Lory)
 ## Program 7 - Transformation
 [s19magd150lab07_Lory.pde](https://github.com/LoryT20/MAGD150-Portfolio/tree/gh-pages/s19magd150lab07_Lory)
