@@ -13,7 +13,7 @@ This program works with two different fonts to create two different bodies of te
 
 [s19magd150lab08_Lory.pde](https://github.com/LoryT20/MAGD150-Portfolio/tree/gh-pages/s19magd150lab08_Lory)
 ## Program 9 - Image/Sound/Video
-This program displays a PDF image on the right side of the screen, a MOV video on the left, and plays a WAV audio file.
+This program displays a PNG image on the right side of the screen, a MOV video on the left, and plays a WAV audio file. The PNG was also given a filter to darken the image.
 
 [s19magd150lab09_Lory.pde](https://github.com/LoryT20/MAGD150-Portfolio/tree/gh-pages/s19magd150lab09_Lory)
 ## Program 10 - 3D
