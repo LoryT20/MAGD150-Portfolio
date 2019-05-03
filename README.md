@@ -1,4 +1,4 @@
-# MAGD150-Portfolio
+# Tanner Lory MAGD150-Portfolio
 
 ## Program 6 - Organization
 this first project focuses on the organization of different methods. the program has 3 methods for 3 varying types of snow flakes to fall from the top of the window. Each method has different parameters for its individual preferences.
